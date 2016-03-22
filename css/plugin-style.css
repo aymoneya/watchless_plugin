@@ -1,0 +1,10 @@
+
+.on { 
+border:1px outset;
+color:#369;
+background:#efefef; 
+}
+
+.off {
+background-color: black; 
+}
